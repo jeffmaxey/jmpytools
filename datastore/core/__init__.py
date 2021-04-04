@@ -16,26 +16,26 @@ import key
 from key import Key
 from key import Namespace
 
-import basic
-from basic import Datastore
-from basic import NullDatastore
-from basic import DictDatastore
-from basic import InterfaceMappingDatastore
+import base
+from base import Datastore
+from base import NullDatastore
+from base import DictDatastore
+from base import InterfaceMappingDatastore
 
-from basic import ShimDatastore
-from basic import CacheShimDatastore
-from basic import LoggingDatastore
-from basic import KeyTransformDatastore
-from basic import LowercaseKeyDatastore
-from basic import NamespaceDatastore
-from basic import NestedPathDatastore
-from basic import SymlinkDatastore
-from basic import DirectoryTreeDatastore
-from basic import DirectoryDatastore
+from base import ShimDatastore
+from base import CacheShimDatastore
+from base import LoggingDatastore
+from base import KeyTransformDatastore
+from base import LowercaseKeyDatastore
+from base import NamespaceDatastore
+from base import NestedPathDatastore
+from base import SymlinkDatastore
+from base import DirectoryTreeDatastore
+from base import DirectoryDatastore
 
-from basic import DatastoreCollection
-from basic import ShardedDatastore
-from basic import TieredDatastore
+from base import DatastoreCollection
+from base import ShardedDatastore
+from base import TieredDatastore
 
 import query
 from query import Query
