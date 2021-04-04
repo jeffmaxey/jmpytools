@@ -9,9 +9,6 @@ class Attribute(object):
 
   Attributes can have other options, including defining a default value, and
   validation for the data they hold.
-
-  This is adapted from dronestore.attribute. See:
-  https://github.com/jbenet/py-dronestore/blob/master/dronestore/attribute.py
   '''
 
   data_type = str
