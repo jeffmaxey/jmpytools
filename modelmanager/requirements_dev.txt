@@ -1,0 +1,11 @@
+# Dev/Deployment modules
+ipython
+sphinx
+sphinx_rtd_theme
+coverage
+twine
+
+# modelmanager plugin dependencies
+django==1.11.16
+parse==1.8.2
+pandas==0.22.0
