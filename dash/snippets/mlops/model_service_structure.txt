@@ -1,0 +1,10 @@
+└── src
+    └── score_interactive_endpoint
+        ├── Dockerfile
+        ├── app.py
+        ├── callbacks.py
+        ├── layouts.py
+        ├── model
+        │   └── model_aa0lcc9j.pkl
+        ├── requirements.txt
+        └── run.py
